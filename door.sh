@@ -1,5 +1,5 @@
 #!/bin/bash
-if [[ "$REVISION" == "UNRELEADED_0x76a9a3fed017f1e1676b53f62891c1a3" ]]; then
+if [[ "$REVISION" == "UNRELEADED_0x76a9a3fed017f1e1676b53f62891c1a3" ]]; then # idc if this is a misspell
             echo "You are running an unreleased build, this could be SPECIFICALLY stopped from running."
 fi
 
